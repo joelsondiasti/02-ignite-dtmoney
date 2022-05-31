@@ -1,46 +1,14 @@
-# Getting Started with Create React App
+# Desafio 01 - Rocketseat Ignite - React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![main challenge badge](https://img.shields.io/badge/Aula%20Ignite-React-blue?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAaxJREFUWEftlTFPwlAUhQ+rxsAvgFmF50y0zETYBXEnimET+AUKuNICzhIVVxBn0LCD0ZmOuIDRWXOaYESMfcWqS+9I+945fOfeW9fiwtIr/rFcjgGHgEPAbgKp1B4i0Qh6vR40tQxd178dclvHUFE20Lq+MgT7vT6CwXXTDWOLgYAIIBqNQFEUhEIKxuMxwuFNw4RZ/diA2+1Gq9WEWBMzWivL/t+PoFotI7GTmBGvndaQTO6aAYAlAvcPd8gcZNFoNI2LKUwDn4voGQGjMCspA8yXYkIE4PP50G53oKkaKtUyPB7PlIaV/HlQ2kD1pALmbVbZTA6qqpm99v5cygDf9nq9KB4XjG5ncb4HA92YdyEEOIKMJrYVlxaXJjC58fziDPX6JR6HQ3Q6N1NCNMbfZHL/eFCaAA8Vinlw05VKKo4O85bFvkJjyQC3HFGzRqMR4rHtGRKW+Ms2IS8l4lW/H+n0PjKZHDjndpQUAa7abvfW0ONysUtcugmZO/Nnscsni+jPCEyyt/vfSxN4fnmyHf2EnmkPMH+WzKd1nkhMDcxzqZUzjgGHgEPgDUrBvUG1opGsAAAAAElFTkSuQmCC&logoWidth=15)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)&nbsp;
 
-## Available Scripts
+## 👨‍💻 Sobre este repositório
 
-In the project directory, you can run:
+Status: **em desenvolvimento**
 
-### `yarn start`
+Esse repositório contém uma aplicação de controle financeiro. 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+O layout da aplicação está disponível no [figma](https://www.figma.com/file/0xmu9mj2TJYoIOubBFWsk5/dtmoney-Ignite-(Copy)).
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
